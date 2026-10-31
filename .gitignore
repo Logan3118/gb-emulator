@@ -1,0 +1,12 @@
+build/
+out/
+cmake-build-*/
+.vscode/
+.idea/
+.vs/
+compile_commands.json
+
+# ROMs and save files are never committed.
+*.gb
+*.gbc
+*.sav
